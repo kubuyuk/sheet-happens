@@ -1,0 +1,9 @@
+name: web_automation_project
+description: A web automation project using Dart.
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  puppeteer: ^3.20.0
